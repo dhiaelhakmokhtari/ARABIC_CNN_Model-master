@@ -1,0 +1,9 @@
+{
+    "test_loss": 0.3936377167701721,
+    "test_accuracy": 0.9062857031822205,
+    "training set size": 16328,
+    "Test set size:": 3500,
+    "Validation": 3499,
+    "number of classes": 62,
+    "number of epochs in training": 40
+}
